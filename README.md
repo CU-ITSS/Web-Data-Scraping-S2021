@@ -26,8 +26,8 @@ Students will:
 
 * **Week 1**: Introduction to Python, Anaconda, Jupyter, browser console, structured data, ethical considerations
 * **Week 2**: Scraping HTML with `requests` and `BeautifulSoup`
-* **Week 3**: Scraping an API with `requests` and `json`, Wikipedia and Reddit
-* **Week 4**: Scraping web data with Selenium, ethics of screen-scraping
+* **Week 3**: Scraping web data with Selenium, ethics of screen-scraping
+* **Week 4**: Scraping an API with `requests` and `json`, Wikipedia and Reddit
 * **Week 5**: Scraping Twitter
 
 ## Evaluation
