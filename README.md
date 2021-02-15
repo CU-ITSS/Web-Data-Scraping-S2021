@@ -38,4 +38,4 @@ To be determined based on enrollments, distribution of skills, *etc*. but will p
 
 This course will draw on resources built by myself and [Allison Morgan](https://allisonmorgan.github.io/) for the [2018 Summer Institute for Computational Social Science](https://github.com/allisonmorgan/sicss_boulder), which were in turn derived from [other resources](https://github.com/simonmunzert/web-scraping-with-r-extended-edition) developed by [Simon Munzert](http://simonmunzert.github.io/) and [Chris Bail](http://www.chrisbail.net/). 
 
-Thank you also to Professors [Terra KcKinnish](https://www.colorado.edu/economics/people/faculty/terra-mckinnish) for coordinating the ITSS seminars.
+Thank you also to Professor [Terra KcKinnish](https://www.colorado.edu/economics/people/faculty/terra-mckinnish) for coordinating the ITSS seminars.
